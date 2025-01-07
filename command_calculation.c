@@ -15,7 +15,7 @@ void main()
     char command[10];
     char var = '>';    commandindex = 0;
     printf(">");
-    printf(">");
+    
 
 
     while ((var != '\n') && (var != '\r'))
